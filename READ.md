@@ -5,3 +5,7 @@ DataStructure and Algorithems
     - Recursion
     - and logical questions
 
+https://visualgo.net/en
+
+
+https://www.toptal.com/developers/sorting-algorithms
